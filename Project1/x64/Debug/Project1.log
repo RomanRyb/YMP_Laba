@@ -7,14 +7,14 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.3412
   (компиляция исходного файла "Main.cpp")
       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,54):
       контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\ACER\source\repos\Project1\Lec.h(46,19):
+          C:\Users\ACER\OneDrive\Рабочий стол\Новая папка (10)\YMP_Laba\Lec.h(46,19):
           выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<int&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept"
           with
           [
               _Other1=int &,
               _Other2=unsigned __int64
           ]
-              C:\Users\ACER\source\repos\Project1\Lec.h(46,18):
+              C:\Users\ACER\OneDrive\Рабочий стол\Новая папка (10)\YMP_Laba\Lec.h(46,18):
               см. первую ссылку на "std::pair<int,int>::pair" в "LecAnal::split"
   
-  Project1.vcxproj -> C:\Users\ACER\source\repos\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\ACER\OneDrive\Рабочий стол\Новая папка (10)\YMP_Laba\x64\Debug\Project1.exe

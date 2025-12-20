@@ -531,6 +531,7 @@ struct Sema {
 
 	void expop(Node* el,string & py, string & znp) {
 		if (table[el->arr[0]->arr[0]->s].type == "")erro.insert("Переменная " + el->arr[0]->arr[0]->s + " не определена\n");
+		else if (table[el->arr[0]->arr[0]->s].type == "PROGRAM")erro.insert("Переменная " + el->arr[0]->arr[0]->s + " не типа INTEGER\n");
 		py = el->arr[0]->arr[0]->s;
 		znp = " =";
 		expr(el->arr[2],py,znp);
@@ -578,6 +579,7 @@ struct Sema {
 	}
 	void id_t(Node* el, string& py) {
 		if (table[el->arr[0]->s].type == "")erro.insert("Переменная " + el->arr[0]->s + " не определена\n");
+		else if (table[el->arr[0]->s].type == "PROGRAM")erro.insert("Переменная " + el->arr[0]->s + " не типа INTEGER\n");
 		//else idman.insert(el->arr[0]->s);
 		el->val = table[el->arr[0]->s].val;
 		py += ' ' + el->arr[0]->s;

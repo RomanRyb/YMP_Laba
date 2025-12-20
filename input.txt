@@ -7,7 +7,7 @@ a=c+b +2
 b=6
 c=6
 
-IF ((a+2)-(5+7)).EQ.-1 + ((b -p) - (6 +p)) + b - (a + d) + p + d
+IF ((a+2)-(5+7)).EQ.-1 + ((b -p) - (6 +p)) + b - (a + d) + p
 THEN 
 	b=a-b
 	IF p.NE.b THEN
