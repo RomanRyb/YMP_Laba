@@ -1,0 +1,23 @@
+PROGRAM start
+INTEGER a , b
+INTEGER c
+INTEGER d,p
+
+a=c+b +2
+b=6
+c=6
+
+IF ((a+2)-(5+7)).EQ.-1 + ((b -p) - (6 +p)) + b - (a + d) + p + d
+THEN 
+	b=a-b
+	IF p.NE.b THEN
+		p=b
+	ELSE
+		b=p
+	END IF
+	c=1
+ELSE 
+	a=b
+END IF
+c = (2 + 1) - (-2)
+END start

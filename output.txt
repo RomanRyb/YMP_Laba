@@ -1,0 +1,31 @@
+Ошибки:
+-------------------------------------
+Хеш-таблица:
+OP = 3
+CONST -1 4
+CONST -2 5
+KW END 5
+KW ELSE 5
+KW THEN 5
+CONST 7 9
+ID start 10
+CONST 6 10
+CONST 5 11
+KW PROGRAM 14
+CONST 2 14
+CONST 1 15
+ID p 16
+ROP .NE. 17
+OP - 19
+D , 20
+KW INTEGER 20
+OP + 21
+D ) 23
+D ( 24
+ROP .EQ. 28
+ID d 28
+ID c 29
+KW IF 29
+ID b 30
+ID a 31
+-------------------------------------

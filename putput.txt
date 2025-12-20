@@ -1,0 +1,23 @@
+Ошибки:
+Хеш-таблица:
+ID a 7
+CONST 11 8
+CONST 4 12
+KW INTEGER 24
+KW ELSE 33
+KW IF 33
+OP + 33
+CONST 8 36
+ID b 38
+D ( 40
+CONST 5 43
+ID start 58
+D , 64
+ID c 69
+D ) 71
+OP .EQ. 76
+KW END 85
+KW THEN 85
+KW PROGRAM 86
+OP = 91
+OP - 95

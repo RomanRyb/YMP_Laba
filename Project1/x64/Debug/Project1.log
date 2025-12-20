@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,54): warning C4267: инициализация: преобразование из "size_t" в "_Ty2"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,54): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,54): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,54): warning C4267:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,54): warning C4267:         ]
+  (компиляция исходного файла "Main.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(247,54):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\ACER\source\repos\Project1\Lec.h(46,19):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<int&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=int &,
+              _Other2=unsigned __int64
+          ]
+              C:\Users\ACER\source\repos\Project1\Lec.h(46,18):
+              см. первую ссылку на "std::pair<int,int>::pair" в "LecAnal::split"
+  
+  Project1.vcxproj -> C:\Users\ACER\source\repos\Project1\x64\Debug\Project1.exe
