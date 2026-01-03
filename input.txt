@@ -15,6 +15,9 @@ THEN
 	ELSE
 		b=p
 	END IF
+	IF a.NE.c THEN
+		p=b
+	END IF
 	c=1
 ELSE 
 	a=b

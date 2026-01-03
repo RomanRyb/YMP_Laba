@@ -1,9 +1,7 @@
-#include<iostream>
-#include<fstream>
-#include<string>
-#include"Hesh.h"
-#include"Lec.h"
-#include"Trop.h"
+#include "HashTable.h"
+#include "Lexical.h"
+#include "Syntactic.h"
+#include "Semantic.h"
 
 using namespace std;
 

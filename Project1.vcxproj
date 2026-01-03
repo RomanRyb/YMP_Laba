@@ -130,9 +130,10 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Hesh.h" />
-    <ClInclude Include="Lec.h" />
-    <ClInclude Include="Trop.h" />
+    <ClInclude Include="HashTable.h" />
+    <ClInclude Include="Lexical.h" />
+    <ClInclude Include="Semantic.h" />
+    <ClInclude Include="Syntactic.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

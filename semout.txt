@@ -5,7 +5,7 @@ INTEGER d p 3 DECL
 a c b 2 + + =
 b 6 =
 c 6 =
-a 2 + 5 7 + - -1 b p - 6 p + - b a d + p + - + + .EQ. m[1] BF  b a b - =  p b .NE. m[3] BF  p b =  m[4] BRL  m[3] DEFL  b p =  m[4] DEFL  c 1 =  m[2] BRL  m[1] DEFL  a b =  m[2] DEFL  
+a 2 + 5 7 + - -1 b p - 6 p + - b a d + p + - + + .EQ. m[1] BF  b a b - =  p b .NE. m[3] BF  p b =  m[4] BRL  m[3] DEFL  b p =  m[4] DEFL  a c .NE. m[5] BF  p b =  m[5] BRL  m[5] DEFL  c 1 =  m[2] BRL  m[1] DEFL  a b =  m[2] DEFL  
 c 2 1 + -2 - =
 END start 2 CALL
 -----------------------------------
