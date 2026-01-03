@@ -11,9 +11,9 @@ int main() {
 	lt.print();
 	if (lt.countfail != 0) return 0;
 	Sip sp;
-	if (!sp.fl)return 0;
-	sp.print();
+	if (sp.fl) sp.print();
 	Sema sem;
+	if (!sp.fl)return 0;
 	sem.start(sp.root);
 	sem.print();
 }

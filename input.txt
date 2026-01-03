@@ -1,11 +1,10 @@
-PROGRAM start
+PROGRAM plot
 INTEGER a , b
 INTEGER c
 INTEGER d,p
-
-a=c+b +2
+a=c+b +2 
 b=6
-c=6
+c=6 + a
 
 IF ((a+2)-(5+7)).EQ.-1 + ((b -p) - (6 +p)) + b - (a + d) + p
 THEN 
@@ -16,11 +15,11 @@ THEN
 		b=p
 	END IF
 	IF a.NE.c THEN
-		p=b
+		p=b 
 	END IF
 	c=1
 ELSE 
 	a=b
 END IF
 c = (2 + 1) - (-2)
-END start
+END plot

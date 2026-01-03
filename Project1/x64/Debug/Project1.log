@@ -17,5 +17,4 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.3412
               C:\Users\ACER\OneDrive\Рабочий стол\Новая папка (10)\YMP_Laba\Lexical.h(43,18):
               см. первую ссылку на "std::pair<int,int>::pair" в "LecAnal::split"
   
-  LINK : не найден или не выполнена сборка C:\Users\ACER\OneDrive\Рабочий стол\Новая папка (10)\YMP_Laba\x64\Debug\Project1.exe при последней инкрементной компоновке; выполняется полная компоновка
   Project1.vcxproj -> C:\Users\ACER\OneDrive\Рабочий стол\Новая папка (10)\YMP_Laba\x64\Debug\Project1.exe

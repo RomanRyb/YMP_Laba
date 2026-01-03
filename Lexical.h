@@ -146,7 +146,7 @@ struct LecAnal {
 				wor.push_back(a[i]);
 				continue;
 			}
-			out << "Не знаю слово " << a[i] << " в стрчке " << numstr << '\n';
+			out << "Не знаю слово " << a[i] << " в строчке " << numstr << '\n';
 			++countfail;
 		}
 	}
