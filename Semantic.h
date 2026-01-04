@@ -3,7 +3,7 @@
 
 
 struct Sema {
-	Node* root;
+	Node* root=nullptr;
 	set<string> erro;
 	vector<string> post;
 	set<string> idman;

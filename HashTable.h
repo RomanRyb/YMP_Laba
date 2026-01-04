@@ -52,7 +52,7 @@ struct vec {
 
 	void push_back(T el) {
 		if (len >= cap) {
-			T* newarr = new T[cap * 2];
+			T* newarr = new T[cap * 2]();
 			copy(arr, arr + len, newarr);
 			cap *= 2;
 			delete[] arr;
@@ -126,6 +126,8 @@ struct HashTb {
 	int cap;
 	int col;
 	node** arr;
+	vec<string> wor;
+	int id = 0;
 
 	HashTb() {
 		this->cap = 8;
@@ -236,5 +238,18 @@ struct HashTb {
 		}
 		return *(new Token("NONE",""));
 	}
-	
+	string get() {
+		if (id >= wor.size())return "*";
+		return wor[id];
+	}
+	void next() {
+		if (id >= wor.size()) return;
+		++id;
+	}
+	void restvec() {
+		id = 0;
+	}
+	void add(string s) {
+		wor.push_back(s);
+	}
 };

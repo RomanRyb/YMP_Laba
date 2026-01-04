@@ -2,8 +2,9 @@
 #include "HashTable.h"
 
 
+
 HashTb table;
-vec<string> wor;
+//vec<string> wor;
 vec<pair<int,int>> lin;
 
 
@@ -116,34 +117,41 @@ struct LecAnal {
 	}
 	void tokenize(const vec<string>& a) {
 		for (int i = 0; i < a.size(); ++i) {
+			//cout << a[i] << '\n';
 			if (Op(a[i])) {
 				table.insert(a[i], { "OP",a[i] });
-				wor.push_back(a[i]);
+				table.add(a[i]);
+				//wor.push_back(a[i]);
 				continue;
 			}
-			if (OpRel(a[i])) {
+			else if (OpRel(a[i])) {
 				table.insert(a[i], { "ROP",a[i] });
-				wor.push_back(a[i]);
+				table.add(a[i]);
+				//wor.push_back(a[i]);
 				continue;
 			}
-			if (Demc(a[i])) {
+			else if (Demc(a[i])) {
 				table.insert(a[i], { "D",a[i] });
-				wor.push_back(a[i]);
+				table.add(a[i]);
+				//wor.push_back(a[i]);
 				continue;
 			}
-			if (KeyWord(a[i])) {
+			else if (KeyWord(a[i])) {
 				table.insert(a[i], { "KW",a[i] });
-				wor.push_back(a[i]);
+				table.add(a[i]);
+				//wor.push_back(a[i]);
 				continue;
 			}
-			if (Const(a[i])) {
+			else if (Const(a[i])) {
 				table.insert(a[i], { "CONST",a[i] });
-				wor.push_back(a[i]);
+				table.add(a[i]);
+				//wor.push_back(a[i]);
 				continue;
 			}
-			if (Id(a[i])) {
+			else if (Id(a[i])) {
 				table.insert(a[i], { "ID",a[i] });
-				wor.push_back(a[i]);
+				table.add(a[i]);
+				//wor.push_back(a[i]);
 				continue;
 			}
 			out << "Не знаю слово " << a[i] << " в строчке " << numstr << '\n';
