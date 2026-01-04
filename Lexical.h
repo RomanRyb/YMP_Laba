@@ -4,7 +4,6 @@
 
 
 HashTb table;
-//vec<string> wor;
 vec<pair<int,int>> lin;
 
 
@@ -117,41 +116,34 @@ struct LecAnal {
 	}
 	void tokenize(const vec<string>& a) {
 		for (int i = 0; i < a.size(); ++i) {
-			//cout << a[i] << '\n';
 			if (Op(a[i])) {
 				table.insert(a[i], { "OP",a[i] });
 				table.add(a[i]);
-				//wor.push_back(a[i]);
 				continue;
 			}
 			else if (OpRel(a[i])) {
 				table.insert(a[i], { "ROP",a[i] });
 				table.add(a[i]);
-				//wor.push_back(a[i]);
 				continue;
 			}
 			else if (Demc(a[i])) {
 				table.insert(a[i], { "D",a[i] });
 				table.add(a[i]);
-				//wor.push_back(a[i]);
 				continue;
 			}
 			else if (KeyWord(a[i])) {
 				table.insert(a[i], { "KW",a[i] });
 				table.add(a[i]);
-				//wor.push_back(a[i]);
 				continue;
 			}
 			else if (Const(a[i])) {
 				table.insert(a[i], { "CONST",a[i] });
 				table.add(a[i]);
-				//wor.push_back(a[i]);
 				continue;
 			}
 			else if (Id(a[i])) {
 				table.insert(a[i], { "ID",a[i] });
 				table.add(a[i]);
-				//wor.push_back(a[i]);
 				continue;
 			}
 			out << "Не знаю слово " << a[i] << " в строчке " << numstr << '\n';
@@ -170,10 +162,6 @@ struct LecAnal {
 			++numstr;
 			vec<string> a;
 			split(a, s);
-			/*for (int i = 0; i < a.size(); ++i) {
-				cout << a[i] << ' ';
-			}
-			cout << '\n';*/
 			tokenize(a);
 		}
 		out << "-------------------------------------\n";
@@ -186,7 +174,6 @@ struct LecAnal {
 		Token tmp;
 		for (int i = 0; i < table.cap; ++i) {
 			bucket = table.arr[i];
-			//if (bucket != nullptr) cout << "Ячейка: " << i + 1 << '\n';
 			while (bucket != nullptr) {
 				tmp = bucket->t;
 				out << tmp.name << ' ' << tmp.value << ' ' << i << '\n';

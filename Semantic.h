@@ -61,7 +61,7 @@ struct Sema {
 		for (Node* p : el->arr) {
 			if (p->s == ",") continue;
 			if (p->s == "Id") {
-				if (table[p->arr[0]->s].type != "") erro.insert("Повтороное определение переменной " + p->arr[0]->s + '\n');
+				if (table[p->arr[0]->s].type != "") erro.insert("Повторное определение переменной " + p->arr[0]->s + '\n');
 				else table[p->arr[0]->s].type = s;
 				idman.insert(p->arr[0]->s);
 				tmp += p->arr[0]->s + ' ';
@@ -186,7 +186,6 @@ struct Sema {
 		znp = " =";
 		expr(el->arr[2], py, znp);
 		if (el->fl)table[el->arr[0]->arr[0]->s].val = el->arr[2]->val;
-		//cout << el->fl << ' ' << el->arr[0]->arr[0]->s << ' ' << el->arr[2]->val << '\n';
 	}
 	void simplexpr(Node* el, string& py, string& znp) {
 		for (Node* p : el->arr) {
@@ -230,7 +229,6 @@ struct Sema {
 	void id_t(Node* el, string& py) {
 		if (table[el->arr[0]->s].type == "")erro.insert("Переменная " + el->arr[0]->s + " не определена\n");
 		else if (table[el->arr[0]->s].type == "PROGRAM")erro.insert("Переменная " + el->arr[0]->s + " не типа INTEGER\n");
-		//else idman.insert(el->arr[0]->s);
 		el->val = table[el->arr[0]->s].val;
 		py += ' ' + el->arr[0]->s;
 	}
@@ -250,9 +248,7 @@ struct Sema {
 			out << post[i];
 		}
 		out << "-----------------------------------\n";
-		/*for (auto el : idman) {
-			out << el << " = " << table[el].val << '\n';
-		}*/
+
 	}
 
 	void print() {

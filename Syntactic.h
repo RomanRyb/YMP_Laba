@@ -32,7 +32,6 @@ struct Sip {
 	string errro;
 	Node* root;
 	Sip() {
-		//wor.push_back("*");
 		root = new Node("Program", { new Node("Begin", {}) ,new Node("Descriptions", {}),new Node("Operators", {}),new Node("End", {}) });
 		begin(root->arr[0]);
 		if (fl)desccription(root->arr[1]);

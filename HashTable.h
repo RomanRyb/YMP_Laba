@@ -168,7 +168,6 @@ struct HashTb {
 	void insert(string key, Token val) {
 		if (search(key)) return;
 		if (col >= cap) doit();
-		//cout << HashF("=")<<'\n';
 		++col;
 		int id = HashF(key);
 		node* newNode = new node(key,val);

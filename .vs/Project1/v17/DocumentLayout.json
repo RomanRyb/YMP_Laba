@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\semout.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:semout.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\TREEPR.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:TREEPR.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Syntactic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:Syntactic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Lexical.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:Lexical.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Semantic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,12 +27,16 @@
       "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Lexical.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:Lexical.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Syntactic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:Syntactic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\semout.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A3216AC-31C7-4B3A-B4DE-980D19B48675}|Project1.vcxproj|solutionrelative:semout.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "TREEPR.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\TREEPR.txt",
+              "RelativeDocumentMoniker": "TREEPR.txt",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\TREEPR.txt",
+              "RelativeToolTip": "TREEPR.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-04T10:31:30.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Syntactic.h",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Syntactic.h",
               "RelativeDocumentMoniker": "Syntactic.h",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Syntactic.h",
               "RelativeToolTip": "Syntactic.h",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAswAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-04T09:42:17.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HashTable.h",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\HashTable.h",
               "RelativeDocumentMoniker": "HashTable.h",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\HashTable.h",
               "RelativeToolTip": "HashTable.h",
-              "ViewState": "AgIAALQAAAAAAAAAAAAAAPsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAmwKUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-04T09:34:49.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Lexical.h",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Lexical.h",
               "RelativeDocumentMoniker": "Lexical.h",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Lexical.h",
               "RelativeToolTip": "Lexical.h",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAswA4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-03T10:11:00.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Semantic.h",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Semantic.h",
               "RelativeDocumentMoniker": "Semantic.h",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Semantic.h",
               "RelativeToolTip": "Semantic.h",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAAD0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-03T10:12:24.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-20T10:53:24.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "input.txt",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\input.txt",
               "RelativeDocumentMoniker": "input.txt",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\input.txt",
               "RelativeToolTip": "input.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-12-20T10:53:27.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "output.txt",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\output.txt",
               "RelativeDocumentMoniker": "output.txt",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\output.txt",
               "RelativeToolTip": "output.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-12-20T10:53:28.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TREEPR.txt",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\TREEPR.txt",
-              "RelativeDocumentMoniker": "TREEPR.txt",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\TREEPR.txt",
-              "RelativeToolTip": "TREEPR.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-20T10:53:29.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "semout.txt",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\semout.txt",
               "RelativeDocumentMoniker": "semout.txt",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (10)\\YMP_Laba\\semout.txt",
               "RelativeToolTip": "semout.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-01-03T10:19:50.359Z",
               "EditorCaption": ""
